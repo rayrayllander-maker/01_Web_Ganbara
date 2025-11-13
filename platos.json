@@ -109,7 +109,7 @@
         "eu": "180 gr. Angus haragia, gazta daniarra bikoitza, hirugiharra bikoitza, hirugihar kurruskaria, tipula kurruskaria, arrautza eta Baconessa saltsa."
       },
       "precio": 14,
-      "imagen": null,
+      "imagen": "baconessa.png",
       "picante": 0,
       "disponible": true
     },
